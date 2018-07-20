@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 00f0a2565b73d5c46989b6ad126fe254
+timeCreated: 1524423122
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Gagalin
+  fontNames:
+  - Gagalin
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
